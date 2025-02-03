@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4DWjZdEz4vs=",
+  "success": true,
+  "projectFilePath": "D:\\CORPORATE TRAINING\\TEAMLEASE\\DevOps\\ASPMVC\\ASPMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
