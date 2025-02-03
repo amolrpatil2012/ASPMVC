@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using ASPMVC.Models;
-using EmpMVC.Models;
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace EmpMVC.Controllers
