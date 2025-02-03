@@ -1,4 +1,4 @@
-﻿namespace EmpMVC.Models;
+﻿namespace ASPMVC.Models;
 
 public class Emp
 {
